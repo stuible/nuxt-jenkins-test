@@ -14,7 +14,7 @@
          I can't believe this actually worked
         </p>
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
-         This is build number 6
+         This is build number 7
         </p>
       </div>
     </div>
